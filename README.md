@@ -1,6 +1,9 @@
 # Faster Whisper API Server
 This is a Flask-based API server that provides speech-to-text transcription functionality using the Faster Whisper library. It supports multiple pre-trained models and allows users to transcribe audio files in various formats.
 
+This server's API is compatible original OpenAI's whisper API spec.
+- https://platform.openai.com/docs/api-reference/audio/json-object
+
 # Author
 - code by Jioh L. Jung
 - Code and manual readme file was created with Claude3 opus(AI assisted).
